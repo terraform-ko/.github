@@ -1,4 +1,4 @@
-lign="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/terraform-ko/terraform-ko/main/src/app/icon.svg" width="64" height="64" alt="Terraform" />
 </p>
 
@@ -33,4 +33,3 @@ lign="center">
 ## 라이선스
 
 이 조직의 프로젝트는 별도 표기가 없는 한 [MIT License](https://github.com/terraform-ko/terraform-ko/blob/main/LICENSE)를 따릅니다.
-
